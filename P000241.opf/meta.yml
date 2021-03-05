@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000241
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། ཤཱཀྱ་མཆོག་ལྡན་དྲི་མེད་ལེགས་པའི་བློ་གྲོས།
-  sku: RDI-SS-08
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-08
 web_metadata:
   title:
     en: Heart of the Ocean of Dharma Prophecies:A Commentary on the Difficult Points
